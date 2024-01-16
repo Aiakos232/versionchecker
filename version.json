@@ -11,5 +11,6 @@
     "codem_bankv2" : 1.1,
     "codem_carplay" : 1.1,
     "codem_scoreboard" : 1.5,
-    "codem-adminmenu" : 1.7
+    "codem-adminmenu" : 1.7,
+    "codem-admin" : 1.0
 }
