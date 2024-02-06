@@ -17,5 +17,6 @@
     "m_weaponshop" : 1.5,
     "codem_appearance" : 1.5,
     "codem_inventory" : 1.4,
-    "codem-adminpanel" : 1.0
+    "codem-adminpanel" : 1.0,
+    "codem_garage" : 2.5
 }
