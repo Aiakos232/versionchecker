@@ -22,5 +22,6 @@
     "codem-blackmarket" : 1.2,
     "codem_minerjob" : 1.4,
     "codem_tuning"  : 1.4,
-    "mHud" : 2.5
+    "mHud" : 2.5,
+    "m_vipsystem" : 1.3
 }
